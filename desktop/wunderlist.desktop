@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Wunderlist
+Comment=Todo
+Exec=google-chrome --app=https://www.wunderlist.com
+StartupWMClass=www.wunderlist.com
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/wunderlist.png
+Terminal=false
+Type=Application
