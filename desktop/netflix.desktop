@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Netflix
+Comment=Netflix
+Exec=google-chrome --app=https://www.netflix.com/browse
+StartupWMClass=www.netflix.com__browse
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/netflix.png
+Terminal=false
+Type=Application

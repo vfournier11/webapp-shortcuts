@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Lastpass
+Comment=Lastpass
+Exec=google-chrome --app=chrome-extension://hdokiejnpimakedhajhdlcegeplioahd/vault.html
+StartupWMClass=hdokiejnpimakedhajhdlcegeplioahd__vault.html
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/lastpass.png
+Terminal=false
+Type=Application

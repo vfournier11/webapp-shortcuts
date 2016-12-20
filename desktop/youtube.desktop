@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Reddit
+Comment=The front page of the internet
+Exec=google-chrome --app=https://www.reddit.com
+StartupWMClass=www.reddit.com
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/reddit.png
+Terminal=false
+Type=Application

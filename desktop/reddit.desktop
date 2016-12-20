@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Youtube
+Comment=Youtube
+Exec=google-chrome --app=https://www.youtube.com
+StartupWMClass=www.youtube.com
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/youtube.png
+Terminal=false
+Type=Application

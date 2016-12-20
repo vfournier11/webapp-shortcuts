@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Google Drive
+Comment=Keep everything, Share anything
+Exec=google-chrome --app=https://drive.google.com/drive/my-drive
+StartupWMClass=drive.google.com__drive_my-drive
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/google-drive.png
+Terminal=false
+Type=Application
