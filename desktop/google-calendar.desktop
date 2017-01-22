@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Google Calendar
-Comment=Access, and manage calendar
-Exec=google-chrome --app=https://calendar.google.com/calendar
-StartupWMClass=calendar.google.com__calendar
-Icon=/home/ntfournier/Projects/webapp-shortcuts/images/google-calendar.png
-Terminal=false
-Type=Application

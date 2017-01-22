@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Slack
+Comment=All Your Team's Communication in One Place
+Exec=google-chrome --app=https://sort-pfe.slack.com/messages/general/
+StartupWMClass=slack
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/slack.png
+Terminal=false
+Type=Application

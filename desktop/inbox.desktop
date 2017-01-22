@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Google Inbox
+Comment=Inbox
+Exec=google-chrome --app=https://inbox.google.com
+StartupWMClass=drive.google.com__drive_my-drive
+Icon=/home/ntfournier/Projects/webapp-shortcuts/images/google-inbox.png
+Terminal=false
+Type=Application
